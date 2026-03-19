@@ -1,0 +1,18 @@
+--- Correlation Matrix ---
+product   EMERALDS  TOMATOES
+product
+EMERALDS   1.00000  -0.00014
+TOMATOES  -0.00014   1.00000
+
+
+--- Basic Statistics ---
+product      EMERALDS      TOMATOES
+50%      10000.000000   4980.000000
+75%      10000.000000   4990.000000
+max      10004.000000   5011.000000
+
+
+EMERALDS and TOMATOES are completely ignoring each other. 
+If Tomatoes crash, Emeralds dgaf. 
+Therefore, we absolutely cannot use Pairs Trading. 
+We must trade them using two completely separate algorithms.
