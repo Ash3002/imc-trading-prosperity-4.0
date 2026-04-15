@@ -1,0 +1,15 @@
+{
+  "total_pnl": 15818.31259653049,
+  "realized_pnl": 0.0,
+  "unrealized_pnl": 15818.31259653049,
+  "intarian_pnl": 0.0,
+  "ash_pnl": 0.0,
+  "total_trades": 98,
+  "peak_equity": 58985.999711120334,
+  "max_drawdown": 6.506550554905546,
+  "sharpe_ratio": 21.97593443965959,
+  "final_intarian_qty": 50.227604731915285,
+  "final_intarian_cost": 11854.238656588135,
+  "final_ash_qty": -107.87547554965694,
+  "final_ash_cost": 10029.953251833675
+}
